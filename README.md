@@ -1,5 +1,5 @@
 # Ethereal Blueprints
-Digital and Physical Prototyping and Creative Coding @ DA Domus Academy
+Digital and Physical Prototyping and Creative Coding @ DA Domus Academy<br/><br/>
 “Creative Coding and Digital & Physical Prototyping” is a practice-based course designed for the Master in Interaction Design at Domus Academy in Milan. The course aims to provide fundamental programming skills combined with digital and physical prototyping techniques to explore the potential of interactive design.
 
 No prior programming experience is required, just a willingness to engage with code at a technical level, using computation as an expressive, analytical, critical, and visualizing medium. Students learn to transform computational energy into creative potential, integrating it with the use of sensors, actuators, and physical computing platforms to create tangible prototypes that bring interactive ideas to life.
